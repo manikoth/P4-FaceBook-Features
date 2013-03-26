@@ -5,7 +5,7 @@ Redesign of common FaceBook features within existing branding, by conducting in 
 
 1.Find three(3) individuals to conduct research upon. 
 
-2.Complete User Research sheets with user information. 
+2.Complete **User-Research.txt** sheet with user information. 
 
 3.Using the provided PSD templates, redesign these interfaces and/or features: 
 
