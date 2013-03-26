@@ -24,3 +24,7 @@ Requirements
 * [ ] Complete & save 3 user research sheets to repo
 * [ ] Submit both comps - Timeline & also Application - interfaces to InVision app
 * [ ] Ask 3 users to leave comments on InVision
+
+Due
+=================
+* April 5th at 8:30am
